@@ -4,6 +4,41 @@
         -webkit-animation: fadeInUp 400ms;
         animation: fadeInUp 400ms;
     }
+
+    .servicii {
+        padding-top: 50px;
+        text-align: center;
+        bottom: -50px;
+      
+       }
+      
+       .conteinter {
+        
+        display: flex;
+        flex-direction: block;
+        Justify-content: center;
+        align-items: center;
+        font-size: 24px;
+      
+       }
+      
+      .imgSRC {
+        padding-bottom: 50px;
+        margin-left: 100px;
+      }
+      
+      .text1 {
+        padding-bottom: 50px;
+        padding-top: 50px;
+        text-align: left;
+        width: 500px;
+        font-size: 24px;
+        margin: 100px; 
+      }
+      .accordion-container {
+        padding: auto;
+      }
+
     ul.sub-menu {
         position: absolute;
         top: 60px;
@@ -170,6 +205,30 @@
     #company-information img{
         margin-bottom: 20px;
     }
+    .servicii {
+        padding-bottom: 50px;
+        text-align: center;
+        bottom: -50px;
+      
+       }
+      
+       .conteinter {
+        display: flex;
+        font-size: 24px;
+        flex-direction: column;
+       }
+      
+      .imgSRC {
+        display: block;
+      }
+      
+      .text1 {
+        text-align: center;
+      }
+
+      .accordion-container {
+        padding: auto;
+      }
     .copyright-text{
         color: #333;
     }
@@ -451,6 +510,32 @@
 
 @media only screen and (max-width: 480px) {
     /* Pricing Table*/
+
+    .servicii {
+        padding-bottom: 50px;
+        text-align: center;
+        bottom: -50px;
+      
+       }
+      
+       .conteinter {
+        display: flex;
+        font-size: 24px;
+        flex-direction: column;
+       }
+      
+      .imgSRC {
+        display: block;
+      }
+      
+      .text1 {
+        text-align: center;
+      }
+
+      .accordion-container {
+        padding: auto;
+      }
+
     .single-price,
     .single-table {
         margin-bottom: 35px;
