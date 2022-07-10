@@ -2683,3 +2683,10 @@ span.stButton_gradient,
   border-radius: 100%;
   margin: 10px 0;
 }
+
+.textAnunt {
+  padding: 10px;
+  background-color: #337ab7;
+  text-align: center;
+  color: #ffffff;
+}
