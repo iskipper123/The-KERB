@@ -9,17 +9,28 @@
         padding-top: 50px;
         text-align: center;
         bottom: -50px;
-      
        }
       
+       .servicii1 {
+        padding-top:0px;
+        text-align: center;
+        bottom: 0px;
+       }
+
        .conteinter {
-        
         display: flex;
         flex-direction: block;
         Justify-content: center;
         align-items: center;
         font-size: 24px;
-      
+       }
+
+       .conteinter2 {
+        display: flex;
+        flex-direction: row-reverse;
+        Justify-content: center;
+        align-items: center;
+        font-size: 24px;
        }
       
       .imgSRC {
@@ -216,6 +227,12 @@
         display: flex;
         font-size: 24px;
         flex-direction: column;
+       }
+
+       .conteinter2 {
+        display: flex;
+        font-size: 24px;
+        flex-direction: column
        }
       
       .imgSRC {
@@ -524,6 +541,12 @@
         flex-direction: column;
        }
       
+       .conteinter2 {
+        display: flex;
+        font-size: 24px;
+        flex-direction: column
+       }
+
       .imgSRC {
         display: block;
       }
