@@ -2733,3 +2733,8 @@ span.stButton_gradient,
 .dropdown:hover .dropdown-content {
   display: block;
 }
+.paginaGoala{
+  padding-top: 200px;
+  width: auto ;
+  height: 500px;
+}
