@@ -259,7 +259,7 @@
 
 #header .navbar-brand{
   padding: 0;
-  margin-left: 0;
+  margin-left: -25px;
 }
 
 #header .navbar-brand h1{
