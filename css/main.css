@@ -260,6 +260,7 @@
 #header .navbar-brand{
   padding: 0;
   margin-left: -25px;
+x;
 }
 
 #header .navbar-brand h1{
@@ -275,8 +276,8 @@
 
 #header .navbar-nav.navbar-right >li a {
   color: #000;
-  font-size: 14px;
-  padding: 20px;
+  font-size:  margin-left: 0;
+
   text-transform: uppercase;
   font-weight: 300;
 }
@@ -2738,3 +2739,4 @@ span.stButton_gradient,
   width: auto ;
   height: 500px;
 }
+
