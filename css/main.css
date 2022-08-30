@@ -2696,7 +2696,7 @@ span.stButton_gradient,
   border: none;
   outline: none;
   color: rgb(0, 0, 0);
-  padding: 19px 16px;
+  padding: 0px 0px;
   background-color: inherit;
   font-family: inherit;
   margin: 0;
@@ -2719,10 +2719,10 @@ span.stButton_gradient,
 .dropdown-content a {
   float: none;
   color: black;
-  padding: 12px 16px;
+  padding: 0px 0px;
   text-decoration: none;
   display: block;
-  text-align: left;
+  text-align: right;
 }
 
 
