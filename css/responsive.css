@@ -358,7 +358,8 @@
         padding-top: 10px;
     }
     .social-icons.pull-right {
-        float: left !important;
+        float: right !important;
+        padding-bottom: 50px;
     }
     #header .navbar-inverse .navbar-toggle,
     #header .navbar-inverse .navbar-toggle:focus {
